@@ -1,0 +1,7 @@
+{
+  "name": "TecSA_NGO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
